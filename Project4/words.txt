@@ -1,0 +1,14 @@
+include
+if
+for
+while
+int
+string
+iostream
+using
+main
+void
+double
+ofstream
+fstream
+bool
